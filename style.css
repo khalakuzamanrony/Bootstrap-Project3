@@ -1,0 +1,31 @@
+
+.navbar-brand img{
+    width: 130px;
+}
+.full-width-image{
+    width: 100%;
+    height: auto;
+}
+.feature-item img{
+    width: 50px;
+    height: auto;
+}
+.subscribe{
+    background: url(image/subscribe.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.footer-copyright{
+    background-color: #000;
+}
+.color-black{
+    color: #000;
+}
+.mobile-padding{
+    background-color: #000;
+}
+.blur-filter{
+    backdrop-filter: blur(8px);
+    background-color:rgb(255 255 255 / 30%);
+}
